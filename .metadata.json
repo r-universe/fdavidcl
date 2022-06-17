@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ruta",
+    "oncran": true
+  },
+  {
+    "package": "yarr",
+    "oncran": true
+  }
+]
