@@ -1,10 +1,10 @@
 [
   {
-    "package": "ruta",
+    "package": "yarr",
     "oncran": true
   },
   {
-    "package": "yarr",
+    "package": "ruta",
     "oncran": true
   }
 ]
